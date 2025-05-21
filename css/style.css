@@ -63,7 +63,18 @@ h1,
 h2,
 h3,
 h4,
-h5,
+h5,{
+     letter-spacing: 0;
+     font-weight: normal;
+     position: relative;
+     padding: 0 0 10px 0;
+     font-weight: normal;
+     line-height: normal;
+     color: #ffffff;
+     margin: 0
+}
+
+
 h6 {
      letter-spacing: 0;
      font-weight: normal;
@@ -71,7 +82,7 @@ h6 {
      padding: 0 0 10px 0;
      font-weight: normal;
      line-height: normal;
-     color: #000000;
+     color: #ffffff;
      margin: 0
 }
 
@@ -96,7 +107,7 @@ h5 {
 }
 
 h6 {
-     font-size: 13px
+     font-size: 22px
 }
 
 *,
