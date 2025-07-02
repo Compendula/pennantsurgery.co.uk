@@ -46,11 +46,14 @@ body {
      line-height: 1.80857;
      font-weight: normal;
      overflow-x: hidden;
-     min-height: 100vh;
-     margin-bottom: -100px;
+    
       
 }
 main {
+  min-height: 100vh;
+     margin-bottom: -100px;
+}
+
 footer, .push{
  height: 100px;
 }
